@@ -1,0 +1,25 @@
+.container{
+text-align: center;
+margin-top: 100px;
+}
+table{
+    margin: auto;
+}
+button{
+    background-color: aqua;
+    font-size: 25px;
+    width: 40px;
+    border-radius: 56px;
+    height: 40px;
+}
+input{
+    background-color: aquamarine;
+    border-radius:10px;
+    height: 34px;
+}
+.calci{
+    border: 45px rgb(55, 19, 139);
+    background-color: black;
+    display: inline-block;
+    padding: 10px;
+}
